@@ -1,4 +1,4 @@
 package abstrakcyjnaKlasa;
 
-public class MassageSender {
+public abstract class MassageSender {
 }

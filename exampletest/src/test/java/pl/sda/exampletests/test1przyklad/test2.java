@@ -5,6 +5,18 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
+
+
+//Fizz Buzz
+//Zwróć „fizz”, „buzz” lub „fizzbuzz”.
+//
+//Dla danej liczby naturalnej większej niż zero powrotu:
+//
+//"fizz" if the number is dividable by 3
+//"buzz" if the number is dividable by 5
+//"fizzbuzz" if the number is dividable by 15
+//the same number if no other requirement is fulfilled
+
 import static org.assertj.core.api.Java6Assertions.assertThat;
 
 public class test2 {

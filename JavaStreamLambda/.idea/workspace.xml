@@ -6,8 +6,45 @@
       <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaCollections/src/Kolekcje/MainList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/JavaLambdazawansowanaZadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/LambdaZadanie1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie3/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamLambda.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lambdastream1/Filter/Filer/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lambdastream1/Filter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/JavaStreamStrumienieZadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/LambdaZadaniaJavaZawansowana/LambdaZadanie1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/LambdaZadaniaJavaZawansowana/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/StreamStrumienieZadanie5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/Zadanie4StreamStrumienie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/streamStrumienZadanie8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/streamStrumienZadanie9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/streamStrumieniZadanhie10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/streamStrumieniZadanhie10/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/streamStrumieniZadanhie10/Pracownicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/streamStrumienieZadanie6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/main/java/streamZadanie2/Zadanie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamStrumienieZadania/src/test/java/TestCalculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaZawansowana/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaZawansowana/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/newroom/Main.java" afterDir="false" />
@@ -22,6 +59,17 @@
       <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/JavaZawansowana1b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/Klasaabstrakcyjna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/MassageSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/emailSeneder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/smsSender.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/workspace.xml" afterDir="false" />
@@ -63,9 +111,10 @@
     <session id="-1128145094">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -91,7 +140,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lambdastream1/Filter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +153,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lambdastream1/Filter/Filer/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="572">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#334#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,10 +188,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="32" />
-    <option name="y" value="345" />
-    <option name="width" value="1533" />
-    <option name="height" value="507" />
+    <option name="x" value="-4" />
+    <option name="y" value="3" />
+    <option name="width" value="1603" />
+    <option name="height" value="689" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -151,7 +199,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,12 +230,14 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551534569402" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaLambdazawansowanaZadania" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -235,27 +284,24 @@
       <option name="presentableId" value="Default" />
       <updated>1551532564729</updated>
       <workItem from="1551532568152" duration="1571000" />
+      <workItem from="1551899657378" duration="81000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1571000" />
+    <option name="totallyTimeSpent" value="1652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -263,15 +309,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,11 +341,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lambdastream1/Filter/Filer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="572">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#334#343#0" expanded="true" />
           </folding>
         </state>
       </provider>

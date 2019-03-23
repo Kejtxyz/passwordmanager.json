@@ -1,15 +1,744 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4dfef63-73ea-4c8e-af86-65af40732d6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GitGroup/TestGit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCollections/src/Kolekcje/MainList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/JavaLambdazawansowanaZadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/LambdaZadanie1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie3/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLambdazawansowanaZadania/src/lambdaZadanie3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamLambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamLambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamLambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamLambda/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamLambda/JavaStreamLambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamLambda/src/Lambdastream1/Filter/Filer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStreamLambda/src/Lambdastream1/Filter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamStrumienieZadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdaZadaniaJavaZawansowana/LambdaZadanie1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdaZadaniaJavaZawansowana/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamStrumienieZadanie5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie4StreamStrumienie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamStrumienZadanie8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamStrumienZadanie9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Pracownicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamStrumienieZadanie6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamZadanie2/Zadanie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/newroom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/newroom/NewRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/samochodDoGierki/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/samochodDoGierki/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/samochodDoGierki/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/samochodDoGierki/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/samochodDoGierki/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana/src/zajecia1/samochodDoGierki/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaZawansowana1b/JavaZawansowana1b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/Klasaabstrakcyjna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/MassageSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/emailSeneder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasaabstrakcyjna/src/abstrakcyjnaKlasa/smsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaZawansowanaProjekt/src/main/java/pl/sda/pwdmanager/InMemoryPasswordManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaZawansowanaProjekt/src/main/java/pl/sda/pwdmanager/PasswordManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaZawansowanaProjekt/src/main/java/pl/sda/pwdmanager/TextFilePasswordManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectjavazawansowana1c/src/staticExaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex01watkithread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex01watkithread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex02javazawwatki/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex02javazawwatki/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex03watkijavapulawatkow/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex03watkijavapulawatkow/MyThreadPulaWatkow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex04watkithreadwykonywaniePoKolei/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex04watkithreadwykonywaniePoKolei/Mythread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex05threadwatkiJavaIncrementacjaZmiennychAtom/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex05threadwatkiJavaIncrementacjaZmiennychAtom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/watkiThread/ex01watkithread/ex05threadwatkiJavaIncrementacjaZmiennychAtom/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watek3threadCw3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watek3threadCw3/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watki2threadCw2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watki2threadCw2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watki4threadCw4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watki4threadCw4/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watkicw1thread1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/javaWatkiCwiczneia/watkicw1thread1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/src/zabawa1a/HelloWorld1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/src/zabawa1b/Zamienne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zabawa1/src/zabawa1c/Metody.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-746657317">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.103" value="1" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.123" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="49" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="49" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="4678" />
+          <entry key="xml" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4678" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="30" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaStreamStrumienieZadania" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZad1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZadanie7/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZadanie8/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZadanie9/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Pracownicy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienieZadanie6/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StreamStrumienieZadanie5/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/streamZadanie2/Main.java" />
+        <option value="$PROJECT_DIR$/src/streamStrumienieZadanie3/Main.java" />
+        <option value="$PROJECT_DIR$/src/streamStrumienZad1/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/testjednostkowy/unitTest.java" />
+        <option value="$PROJECT_DIR$/src/test/testjednostkowy/unitTest.java" />
+        <option value="$PROJECT_DIR$/src/test/testjednostkowy/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamZadanie2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamZadanie2/Zadanie2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StreamStrumienieZadanie6/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Zadanie4StreamStrumienie/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaZadaniaJavaZawansowana/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StreamStrumienieZadanie5/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumienieZadanie3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumienZadanie7/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumienieZadanie6/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumienZadanie8/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumienZadanie9/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Pracownicy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaStreamStrumienieZadania" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaStreamStrumienieZadania" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaStreamStrumienieZadania" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="32" />
-    <option name="y" value="345" />
-    <option name="width" value="1533" />
-    <option name="height" value="507" />
+    <option name="x" value="-4" />
+    <option name="y" value="3" />
+    <option name="width" value="1603" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaStreamStrumienieZadania" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStreamStrumienieZadania" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStreamStrumienieZadania" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaStreamStrumienieZadania" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaStreamStrumienieZadania" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551987915579" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaStreamLambda" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RENT\IdeaProjects\JavaStreamStrumienieZadania\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamStrumienZadanie9.Main" />
+      <module name="JavaStreamStrumienieZadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamStrumienZadanie9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamStrumienZadanie7.Main" />
+      <module name="JavaStreamStrumienieZadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamStrumienZadanie7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamStrumienZadanie8.Main" />
+      <module name="JavaStreamStrumienieZadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamStrumienZadanie8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamStrumienieZadanie6.Main" />
+      <module name="JavaStreamStrumienieZadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamStrumienieZadanie6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamStrumieniZadanhie10.Main" />
+      <module name="JavaStreamStrumienieZadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamStrumieniZadanhie10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4dfef63-73ea-4c8e-af86-65af40732d6e" name="Default Changelist" comment="" />
+      <created>1551536878502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551536878502</updated>
+      <workItem from="1551536881346" duration="2145000" />
+      <workItem from="1551621388723" duration="3199000" />
+      <workItem from="1551714943344" duration="12671000" />
+      <workItem from="1551802059945" duration="1801000" />
+      <workItem from="1551804327928" duration="7444000" />
+      <workItem from="1551881743556" duration="6071000" />
+      <workItem from="1551987506555" duration="447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCalculator - 2019.03.04 at 18h 49m 43s.xml">
+      <configuration name="TestCalculator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCalculator - 2019.03.04 at 18h 50m 14s.xml">
+      <configuration name="TestCalculator" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33778000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989775" weight="0.18359375" />
+      <window_info id="Structure" order="1" sideWeight="0.5010225" side_tool="true" weight="0.18830334" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010225" side_tool="true" weight="0.18830334" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="22" y="302" width="1556" height="255" id="Run" order="2" weight="0.34185734" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.22745626" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.17089844" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.18359375" />
+      <window_info id="Structure" order="1" sideWeight="0.5010225" side_tool="true" weight="0.18830334" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010225" side_tool="true" weight="0.18830334" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="22" y="302" width="1556" height="255" id="Run" order="2" weight="0.34185734" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.22745626" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.17089844" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaStreamStrumienieZadania.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/testjednostkowy/CalculatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamZadanie2/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="856" column="48" selection-start-line="856" selection-start-column="48" selection-end-line="856" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Zadanie4StreamStrumienie/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienieZadanie3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaZadaniaJavaZawansowana/LambdaZadanie1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaZadaniaJavaZawansowana/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamZadanie2/Zadanie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StreamStrumienieZadanie5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienieZadanie6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Pracownicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZadanie9/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZadanie8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZadanie7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumienZad1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streamStrumieniZadanhie10/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

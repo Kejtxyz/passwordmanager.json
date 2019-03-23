@@ -1,4 +1,6 @@
 package streamStrumieniZadanhie10;
 
-public class oint {
+public class Point {
+    int x;
+    int y;
 }
